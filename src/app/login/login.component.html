@@ -1,0 +1,15 @@
+<div class="p-d-flex p-jc-center login-div">
+  <p-fieldset legend="Bejelentkezés">
+    <span class="p-input-icon-left custom-icon-input p-float-label">
+      <i class="pi pi-envelope"></i>
+      <input id="username" type="text" pInputText>
+      <label for="username">Felhasználónév</label>
+    </span>
+    <span class="p-input-icon-left custom-icon-input p-float-label">
+      <i class="pi pi-lock"></i>
+      <input id="password" type="password" pInputText>
+      <label for="password">Jelszó</label>
+    </span>
+    <p-button label="Belépés" styleClass="p-button-lg" (click)="navigateTo('/admin')"></p-button>
+  </p-fieldset>
+</div>

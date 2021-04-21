@@ -4,6 +4,7 @@ import {RippleModule} from 'primeng/ripple';
 import {FieldsetModule} from 'primeng/fieldset';
 import {InputTextModule} from 'primeng/inputtext';
 import {PasswordModule} from 'primeng/password';
+import {PanelModule} from 'primeng/panel';
 
 @NgModule({
   exports: [
@@ -11,7 +12,8 @@ import {PasswordModule} from 'primeng/password';
     RippleModule,
     FieldsetModule,
     InputTextModule,
-    PasswordModule
+    PasswordModule,
+    PanelModule
   ],
 })
 

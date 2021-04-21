@@ -1,22 +1,5 @@
-.login-div {
-  height: 100%;
-  padding-top: 5rem;
-}
-
-input, :host ::ng-deep p-button > button {
-  width: 100%;
-}
-
-.custom-icon-input {
-  width: 100%;
-  margin-bottom: 1.5rem;
-}
-
-:host ::ng-deep .p-fieldset {
-  width: 100%;
-}
-:host ::ng-deep .p-fieldset .p-fieldset-legend {
-  text-align: center;
+:host ::ng-deep .p-panel {
+  padding-top: 4rem;
 }
 
 /*# sourceMappingURL=admin.component.css.map */
