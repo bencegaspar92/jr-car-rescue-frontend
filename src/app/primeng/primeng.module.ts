@@ -5,6 +5,8 @@ import {FieldsetModule} from 'primeng/fieldset';
 import {InputTextModule} from 'primeng/inputtext';
 import {PasswordModule} from 'primeng/password';
 import {PanelModule} from 'primeng/panel';
+import {CarouselModule} from 'primeng/carousel';
+import {CardModule} from 'primeng/card';
 
 @NgModule({
   exports: [
@@ -13,7 +15,9 @@ import {PanelModule} from 'primeng/panel';
     FieldsetModule,
     InputTextModule,
     PasswordModule,
-    PanelModule
+    PanelModule,
+    CarouselModule,
+    CardModule
   ],
 })
 

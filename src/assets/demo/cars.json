@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "year": "2020",
+      "brand": "KIA",
+      "color": "white",
+      "price": "50M HUF",
+      "picture": "/assets/demo/cars/1.jpg"
+    },
+    {
+      "id": "2",
+      "year": "2018",
+      "brand": "LAMBO",
+      "color": "red",
+      "price": "80M HUF",
+      "picture": "/assets/demo/cars/2.jpg"
+    },
+    {
+      "id": "3",
+      "year": "2015",
+      "brand": "LAMBO",
+      "color": "orange",
+      "price": "100M HUF",
+      "picture": "/assets/demo/cars/3.jpg"
+    },
+    {
+      "id": "4",
+      "year": "2021",
+      "brand": "KIA",
+      "color": "black",
+      "price": "30M HUF",
+      "picture": "/assets/demo/cars/4.jpg"
+    }
+  ]
+}
